@@ -1,5 +1,5 @@
 ## Oi!! Eu sou Ana Kátia 🖐️👩‍💻
-- 🔭  Para crescer na vida só precisamos de uma oportunidade.
+- 🔭  Para crescer na vida só precisamos de uma oportunidade!
  <div>
   <a href="https://github.com/Katiaana">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Katiaana&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
